@@ -191,3 +191,11 @@ A full runtime smoke test was not assumed in documentation unless it is explicit
 Project-level code and documentation in this repository are licensed under the MIT License by Hapa.ai / Calder Wong. See `LICENSE`.
 
 Contributors may also opt into Bananas work-contribution tracking for attribution. Bananas is an attribution/accounting layer for recognizing who contributed work; it is optional and does not replace the MIT License. Third-party dependency and model licenses remain governed by their own upstream terms and notices.
+
+<!-- HAPA-README-SCREENSHOT-2026-05-22 -->
+
+## Screenshot
+
+![hapa-llada-node UI screenshot](docs/assets/screenshots/readme-hapa-llada-node.png)
+
+Hapa LLaDA Node static operator UI.
