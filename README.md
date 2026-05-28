@@ -110,7 +110,7 @@ Unauthenticated endpoints:
 - `GET /health` — service status
 - `POST /generate` — UI-oriented text generation endpoint
 
-Authenticated endpoints require `Authorization: Bearer ***` or `?token=<token>` where supported:
+Authenticated endpoints require an `Authorization` bearer header or `?token=<token>` query parameter where supported:
 
 - `GET /capabilities`
 - `GET /v1/models`
